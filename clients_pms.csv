@@ -1,0 +1,19 @@
+client_ref,nom,prenom,date_naissance,email,telephone,adresse,code_postal,ville,pays,nationalite,situation_familiale,nom_conjoint,piece_identite_num,date_creation,date_derniere_activite
+C7A1,Martin,Claire,1984-03-12,claire.martin@example.org,+33 6 39 98 10 40,4 rue des Mouettes,35000,Rennes,FR,FR,Mariée,Martin Julien,,2023-05-02,2025-08-30
+C3F9,Becker,Jonas,1990-07-21,jonas.becker@example.org,+33 6 39 98 11 41,Lindenstraße 8,50667,Köln,DE,DE,Célibataire,,FICTIF-DE-L01X7Z,2025-06-14,2025-08-29
+C55B,Durand,Sophie,1979-11-03,sophie.durand@example.org,+33 6 39 98 12 42,17 avenue Foch,54000,Nancy,FR,FR,Pacsée,Lefèvre Marc,,2021-04-19,2025-09-02
+C0D2,Petit,Lucas,2001-01-27,lucas.petit@example.org,+33 6 39 98 13 43,2 impasse du Moulin,86000,Poitiers,FR,FR,Célibataire,,,2025-07-30,2025-09-01
+C912,Moreau,Hélène,1958-06-09,helene.moreau@example.org,+33 6 39 98 14 44,33 quai de la Loire,37000,Tours,FR,FR,Veuve,,,2019-03-11,2025-09-01
+C4E8,de Vries,Anouk,1986-02-14,anouk.devries@example.org,+33 6 39 98 15 45,Kerkstraat 21,3511,Utrecht,NL,NL,Mariée,de Vries Pieter,FICTIF-NL-P93K2A,2025-05-03,2025-09-05
+C2B7,Lambert,Thomas,1982-09-30,thomas.lambert@example.org,+33 6 39 98 16 46,9 rue Pasteur,69003,Lyon,FR,FR,Marié,Lambert Emma,,2022-06-01,2025-08-31
+C8C1,Walker,Oliver,1996-12-05,oliver.walker@example.org,+33 6 39 98 17 47,14 Baker Lane,BS1 4DJ,Bristol,GB,GB,Célibataire,,FICTIF-GB-5528190,2025-07-12,2025-09-03
+C6A3,Garcia,Inès,1991-05-18,ines.garcia@example.org,+33 6 39 98 18 48,6 place du Marché,31000,Toulouse,FR,FR,Divorcée,,,2024-08-20,2025-09-04
+C1F0,Roux,Antoine,1975-08-08,antoine.roux@example.org,+33 6 39 98 19 49,21 rue Nationale,59000,Lille,FR,FR,Marié,Roux Camille,,2025-06-30,2025-08-28
+C9D4,Fontaine,Julie,1988-04-02,julie.fontaine@example.org,+33 6 39 98 20 50,5 allée des Pins,33000,Bordeaux,FR,FR,Mariée,Fontaine Hugo,,2020-07-07,2025-09-06
+C5E6,Bernard,Paul,1969-10-23,paul.bernard@example.org,+33 6 39 98 21 51,40 boulevard Victor-Hugo,06000,Nice,FR,FR,Marié,Bernard Anne,,2025-04-04,2025-08-27
+C3A8,Chevalier,Nadia,1973-01-15,nadia.chevalier@example.org,+33 6 39 98 22 52,11 rue de la Gare,67000,Strasbourg,FR,FR,Mariée,Chevalier Karim,,2018-05-25,2025-09-01
+C7C2,Dupont,Maxime,1993-03-29,maxime.dupont@example.org,+33 6 39 98 23 53,Rue Royale 102,1000,Bruxelles,BE,BE,Pacsé,Janssens Lotte,FICTIF-BE-591-0042,2025-08-01,2025-09-03
+C2D9,Faure,Margaux,2003-09-11,margaux.faure@example.org,+33 6 39 98 24 54,8 rue Victor-Hugo,63000,Clermont-Ferrand,FR,FR,Célibataire,,,2025-08-15,2025-09-05
+C0B5,Girard,Éric,1966-12-01,eric.girard@example.org,+33 6 39 98 25 55,3 chemin des Vignes,21000,Dijon,FR,FR,Marié,Girard Sylvie,,2025-08-20,2025-08-27
+C1A0,Mercier,Louis,1950-02-20,louis.mercier@example.org,+33 6 39 98 26 56,18 rue des Écoles,45000,Orléans,FR,FR,Marié,Mercier Odile,,2019-06-10,2022-07-15
+C6B2,Blanc,Chloé,1987-07-04,chloe.blanc@example.org,+33 6 39 98 27 57,27 rue Saint-Michel,13001,Marseille,FR,FR,Célibataire,,,2021-07-01,2022-08-20

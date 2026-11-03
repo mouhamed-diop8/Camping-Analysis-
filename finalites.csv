@@ -1,0 +1,6 @@
+finalite,libelle,base_legale,duree_conservation_mois,point_de_depart,donnees_et_source
+CONTRAT,Gérer la réservation et le séjour,CONTRAT,36,dernière activité du client,identité et coordonnées ; 3 ans après la fin de la relation commerciale (recommandation CNIL)
+COMPTA,Facturer et tenir la comptabilité,OBLIGATION_LEGALE,120,clôture de l'exercice,"séjours et montants ; 10 ans (code de commerce, art. L123-22)"
+POLICE,Fiche individuelle de police des clients étrangers,OBLIGATION_LEGALE,6,date de départ,nationalité et pièce d'identité des clients étrangers ; 6 mois (CESEDA)
+STATS,"Analyses statistiques de la clientèle (profil, Genie)",CONSENTEMENT,36,date du consentement,"année de naissance, pays, composition du groupe ; jusqu'au retrait, 3 ans au plus"
+MARKETING,Envoi d'offres et de la lettre d'information,CONSENTEMENT,36,dernier contact,e-mail ; 3 ans après le dernier contact (recommandation CNIL)

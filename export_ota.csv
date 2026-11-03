@@ -1,0 +1,4 @@
+ota_ref,canal,emplacement_id,date_arrivee,date_depart,nb_adultes,nb_mineurs,montant_ttc
+BKG-88412,BOOKING,E02,2025-08-26,2025-08-29,2,0,105.00
+BKG-88977,BOOKING,E08,2025-08-29,2025-09-03,4,0,500.00
+CPG-10233,CAMPINGS,E04,2025-08-30,2025-09-01,1,0,60.00
